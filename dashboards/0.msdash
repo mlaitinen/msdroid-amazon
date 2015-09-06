@@ -1,0 +1,157 @@
+{
+  "backgroundResource": "fibre_pattern_1.svg",
+  "backgroundType": "COLOUR",
+  "components": [
+    {
+      "$type": "GaugeComponentModel",
+      "aspectRatioConstraint": "SQUARE",
+      "designResourceURI": "gauge_circular_analogue_3.svg",
+      "rendererType": "SVG",
+      "sourceVariableNames": [
+        "main.cltGauge"
+      ],
+      "textAttributesMap": {},
+      "columns": 0,
+      "height": 390.0,
+      "rotation": 0,
+      "rows": 0,
+      "version": 1,
+      "width": 390.0,
+      "xPos": 90.0,
+      "yPos": 30.0
+    },
+    {
+      "$type": "GaugeComponentModel",
+      "aspectRatioConstraint": "SQUARE",
+      "designResourceURI": "gauge_circular_analogue_3.svg",
+      "rendererType": "SVG",
+      "sourceVariableNames": [
+        "main.voltMeter"
+      ],
+      "textAttributesMap": {},
+      "columns": 0,
+      "height": 390.0,
+      "rotation": 0,
+      "rows": 0,
+      "version": 1,
+      "width": 390.0,
+      "xPos": 90.0,
+      "yPos": 450.0
+    },
+    {
+      "$type": "GaugeComponentModel",
+      "aspectRatioConstraint": "SQUARE",
+      "designResourceURI": "gauge_circular_analogue_3.svg",
+      "rendererType": "SVG",
+      "sourceVariableNames": [
+        "main.mapGauge"
+      ],
+      "textAttributesMap": {},
+      "columns": 0,
+      "height": 390.0,
+      "rotation": 0,
+      "rows": 0,
+      "version": 1,
+      "width": 390.0,
+      "xPos": 90.0,
+      "yPos": 870.0
+    },
+    {
+      "$type": "GaugeComponentModel",
+      "aspectRatioConstraint": "SQUARE",
+      "designResourceURI": "gauge_circular_analogue_3.svg",
+      "rendererType": "SVG",
+      "sourceVariableNames": [
+        "main.RpmHiResGauge"
+      ],
+      "textAttributesMap": {},
+      "columns": 0,
+      "height": 390.0,
+      "rotation": 0,
+      "rows": 0,
+      "version": 1,
+      "width": 390.0,
+      "xPos": 90.0,
+      "yPos": 1290.0
+    },
+    {
+      "$type": "GaugeComponentModel",
+      "aspectRatioConstraint": "SQUARE",
+      "designResourceURI": "gauge_circular_analogue_3.svg",
+      "rendererType": "SVG",
+      "sourceVariableNames": [
+        "main.matGauge"
+      ],
+      "textAttributesMap": {},
+      "columns": 0,
+      "height": 390.0,
+      "rotation": 0,
+      "rows": 0,
+      "version": 1,
+      "width": 390.0,
+      "xPos": 570.0,
+      "yPos": 30.0
+    },
+    {
+      "$type": "GaugeComponentModel",
+      "aspectRatioConstraint": "SQUARE",
+      "designResourceURI": "gauge_circular_analogue_3.svg",
+      "rendererType": "SVG",
+      "sourceVariableNames": [
+        "main.throttleGauge"
+      ],
+      "textAttributesMap": {},
+      "columns": 0,
+      "height": 390.0,
+      "rotation": 0,
+      "rows": 0,
+      "version": 1,
+      "width": 390.0,
+      "xPos": 570.0,
+      "yPos": 450.0
+    },
+    {
+      "$type": "GaugeComponentModel",
+      "aspectRatioConstraint": "SQUARE",
+      "designResourceURI": "gauge_circular_analogue_3.svg",
+      "rendererType": "SVG",
+      "sourceVariableNames": [
+        "main.tachometer"
+      ],
+      "textAttributesMap": {},
+      "columns": 0,
+      "height": 390.0,
+      "rotation": 0,
+      "rows": 0,
+      "version": 1,
+      "width": 390.0,
+      "xPos": 570.0,
+      "yPos": 870.0
+    },
+    {
+      "$type": "GaugeComponentModel",
+      "aspectRatioConstraint": "SQUARE",
+      "designResourceURI": "gauge_circular_analogue_3.svg",
+      "rendererType": "SVG",
+      "sourceVariableNames": [
+        "main.afrGauge"
+      ],
+      "textAttributesMap": {},
+      "columns": 0,
+      "height": 360.0,
+      "rotation": 0,
+      "rows": 0,
+      "version": 1,
+      "width": 360.0,
+      "xPos": 585.0,
+      "yPos": 1305.0
+    }
+  ],
+  "authorHeight": 1731,
+  "authorWidth": 1080,
+  "backgroundColour": 0,
+  "lightGradientPercent": 75,
+  "lightSpotPercent": 82,
+  "snapGridIntervalDip": 15,
+  "version": 1
+}

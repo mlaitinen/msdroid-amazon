@@ -1,0 +1,88 @@
+{
+  "backgroundType": "COLOUR",
+  "components": [
+    {
+      "$type": "HistogramComponentModel",
+      "trendLineColour": -10766113,
+      "aspectRatioConstraint": "HORIZONTAL_RECT",
+      "designResourceURI": "histogram_1.svg",
+      "rendererType": "SVG",
+      "sourceVariableNames": [
+        "main.afrGauge"
+      ],
+      "textAttributesMap": {},
+      "columns": 0,
+      "height": 450.0,
+      "rotation": 0,
+      "rows": 0,
+      "version": 1,
+      "width": 990.0,
+      "xPos": 45.0,
+      "yPos": 45.0
+    },
+    {
+      "$type": "GaugeComponentModel",
+      "aspectRatioConstraint": "SQUARE",
+      "designResourceURI": "gauge_circular_analogue_3.svg",
+      "rendererType": "SVG",
+      "sourceVariableNames": [
+        "main.warmupEnrichGauge",
+        "main.cltGauge"
+      ],
+      "textAttributesMap": {},
+      "columns": 0,
+      "height": 450.0,
+      "rotation": 0,
+      "rows": 0,
+      "version": 1,
+      "width": 450.0,
+      "xPos": 45.0,
+      "yPos": 540.0
+    },
+    {
+      "$type": "GaugeComponentModel",
+      "aspectRatioConstraint": "SQUARE",
+      "designResourceURI": "gauge_circular_analogue_3.svg",
+      "rendererType": "SVG",
+      "sourceVariableNames": [
+        "main.accelEnrichGauge",
+        "main.cltGauge"
+      ],
+      "textAttributesMap": {},
+      "columns": 0,
+      "height": 450.0,
+      "rotation": 0,
+      "rows": 0,
+      "version": 1,
+      "width": 450.0,
+      "xPos": 585.0,
+      "yPos": 540.0
+    },
+    {
+      "$type": "GaugeComponentModel",
+      "aspectRatioConstraint": "SQUARE",
+      "designResourceURI": "gauge_circular_analogue_3.svg",
+      "rendererType": "SVG",
+      "sourceVariableNames": [
+        "main.pulseWidth1Gauge",
+        "main.cltGauge"
+      ],
+      "textAttributesMap": {},
+      "columns": 0,
+      "height": 450.0,
+      "rotation": 0,
+      "rows": 0,
+      "version": 1,
+      "width": 450.0,
+      "xPos": 45.0,
+      "yPos": 1035.0
+    }
+  ],
+  "authorHeight": 1731,
+  "authorWidth": 1080,
+  "backgroundColour": 0,
+  "lightGradientPercent": 75,
+  "lightSpotPercent": 50,
+  "snapGridIntervalDip": 15,
+  "version": 1
+}

@@ -1,0 +1,138 @@
+{
+  "backgroundType": "COLOUR",
+  "components": [
+    {
+      "$type": "GaugeComponentModel",
+      "aspectRatioConstraint": "SQUARE",
+      "designResourceURI": "gauge_circular_analogue_3.svg",
+      "rendererType": "SVG",
+      "sourceVariableNames": [
+        "main.throttleGauge"
+      ],
+      "textAttributesMap": {},
+      "columns": 0,
+      "height": 390.0,
+      "rotation": 0,
+      "rows": 0,
+      "version": 1,
+      "width": 390.0,
+      "xPos": 30.0,
+      "yPos": 60.0
+    },
+    {
+      "$type": "GaugeComponentModel",
+      "aspectRatioConstraint": "PRESERVE",
+      "designResourceURI": "gauge_circular_analogue_2.svg",
+      "rendererType": "SVG",
+      "sourceVariableNames": [
+        "main.XAccGauge"
+      ],
+      "textAttributesMap": {},
+      "columns": 0,
+      "height": 240.0,
+      "rotation": 0,
+      "rows": 0,
+      "version": 1,
+      "width": 240.0,
+      "xPos": 450.0,
+      "yPos": 30.0
+    },
+    {
+      "$type": "GaugeComponentModel",
+      "aspectRatioConstraint": "PRESERVE",
+      "designResourceURI": "gauge_circular_analogue_2.svg",
+      "rendererType": "SVG",
+      "sourceVariableNames": [
+        "main.YAccGauge"
+      ],
+      "textAttributesMap": {},
+      "columns": 0,
+      "height": 240.0,
+      "rotation": 0,
+      "rows": 0,
+      "version": 1,
+      "width": 240.0,
+      "xPos": 720.0,
+      "yPos": 30.0
+    },
+    {
+      "$type": "GaugeComponentModel",
+      "aspectRatioConstraint": "PRESERVE",
+      "designResourceURI": "gauge_circular_analogue_2.svg",
+      "rendererType": "SVG",
+      "sourceVariableNames": [
+        "main.MAFGauge"
+      ],
+      "textAttributesMap": {},
+      "columns": 0,
+      "height": 240.0,
+      "rotation": 0,
+      "rows": 0,
+      "version": 1,
+      "width": 240.0,
+      "xPos": 990.0,
+      "yPos": 30.0
+    },
+    {
+      "$type": "GaugeComponentModel",
+      "aspectRatioConstraint": "PRESERVE",
+      "designResourceURI": "gauge_circular_analogue_2.svg",
+      "rendererType": "SVG",
+      "sourceVariableNames": [
+        "main.advanceGauge"
+      ],
+      "textAttributesMap": {},
+      "columns": 0,
+      "height": 240.0,
+      "rotation": 0,
+      "rows": 0,
+      "version": 1,
+      "width": 240.0,
+      "xPos": 990.0,
+      "yPos": 300.0
+    },
+    {
+      "$type": "GaugeComponentModel",
+      "aspectRatioConstraint": "SQUARE",
+      "designResourceURI": "gauge_circular_analogue_3.svg",
+      "rendererType": "SVG",
+      "sourceVariableNames": [
+        "main.cltGauge"
+      ],
+      "textAttributesMap": {},
+      "columns": 0,
+      "height": 240.0,
+      "rotation": 0,
+      "rows": 0,
+      "version": 1,
+      "width": 240.0,
+      "xPos": 450.0,
+      "yPos": 300.0
+    },
+    {
+      "$type": "GaugeComponentModel",
+      "aspectRatioConstraint": "SQUARE",
+      "designResourceURI": "gauge_circular_analogue_3.svg",
+      "rendererType": "SVG",
+      "sourceVariableNames": [
+        "main.mapGauge"
+      ],
+      "textAttributesMap": {},
+      "columns": 0,
+      "height": 240.0,
+      "rotation": 0,
+      "rows": 0,
+      "version": 1,
+      "width": 240.0,
+      "xPos": 720.0,
+      "yPos": 300.0
+    }
+  ],
+  "authorHeight": 594,
+  "authorWidth": 1280,
+  "backgroundColour": 0,
+  "lightGradientPercent": 75,
+  "lightSpotPercent": 50,
+  "snapGridIntervalDip": 15,
+  "version": 1
+}

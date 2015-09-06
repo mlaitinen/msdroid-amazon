@@ -1,0 +1,36 @@
+{
+  "mCanDevices": [],
+  "mECUSpecifics": {
+    "mECUFlags": {
+      "ecu_setting_DIYWB_NON_LINEAR": "false",
+      "ecu_setting_CELSIUS": "true",
+      "ecu_setting_WB_UNKNOWN": "false",
+      "ecu_setting_TECHEDGE_LINEAR": "false",
+      "ecu_setting_ZEITRONIX_NON_LINEAR": "false",
+      "ecu_setting_KPa": "false",
+      "ecu_setting_INNOVATE_0_5_LINEAR": "false",
+      "ecu_setting_WB_1_0_LINEAR": "false",
+      "ecu_setting_MEMPAGES": "false",
+      "ecu_setting_DYNOJET_LINEAR": "false",
+      "ecu_setting_ALPHA_N": "false",
+      "ecu_setting_LOGPAGES": "false",
+      "ecu_setting_INNOVATE_LC1_DEFAULT": "true",
+      "ecu_setting_MPXH6300A": "false",
+      "ecu_setting_AEM_NON_LINEAR": "false",
+      "ecu_setting_MSLVV_COMPATIBLE": "false",
+      "ecu_setting_SPEED_DENSITY": "true",
+      "ecu_setting_AIR_FLOW_METER": "false",
+      "ecu_setting_AEM_LINEAR": "false",
+      "ecu_setting_MPXH6400A": "false",
+      "ecu_setting_NARROW_BAND_EGO": "false",
+      "ecu_setting_INNOVATE_1_2_LINEAR": "false",
+      "ecu_setting_MPX4250": "false",
+      "ecu_setting_FAST_WIDEBAND_O2": "false"
+    },
+    "mSignature": "MS1/Extra format 029y3 *********",
+    "version": 1
+  },
+  "mProjectName": "MS1Extra_format_029y3_",
+  "mMainControllerCanId": 0,
+  "version": 1
+}
